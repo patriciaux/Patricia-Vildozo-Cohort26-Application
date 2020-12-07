@@ -1,7 +1,7 @@
-# Patricia Vildozo
+### Patricia Vildozo
 # UX Designer
 ### EXPERIENCE
-### Uplight | Customer Experience Designer
+# Uplight | Customer Experience Designer
 * Created future-state journeys that appropriately consider existing processes and regulatory constraints in the pursuit of best-in-class digital customer experiences.
 * Worked in journey mapping tools to build customer journeys that will help both internal stakeholders and the client understand the customer perspective.
 * Collaborated with technical and process teams to define opportunities and outcomes.
