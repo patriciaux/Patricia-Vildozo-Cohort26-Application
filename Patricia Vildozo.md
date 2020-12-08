@@ -18,7 +18,7 @@ Passionate UX designer applying my skills to create simple, creative and structu
 * Collaborated with team members, senior designers and stakeholders to define product’s strategy and implementation of the project.
 * Dealt with ambiguity and defined the path for the design based on researcher findings.
 * Created and iterated multiple design solutions (sketching, wireframing, low-fidelity prototyping, high-fidelity prototyping) to discover what works best for the users and to satisfy the business needs of the client. The company is currently working on launching this website based on my teams’ findings and design.
-### Coroico LLC | Project & Architectural Design Manager| 2015-2019
+### Coroico LLC | Project & Architectural Design Manager| 2017-2019
 * Prepared preliminary design documents and contract documents.
 * Utilized computer-assisted design and software.
 * Prepared information regarding design, specifications, materials, and equipment.
@@ -30,11 +30,12 @@ Passionate UX designer applying my skills to create simple, creative and structu
 * Used various research tools like interviews, mental models and user observation to gain knowledge and empathize with the user. Based on the insights,
 * I created a scenario, persona, and user flow. Sketched, created wireframes, prototypes, and iterated based on user testing.
 # EDUCATION
-User Experience Design Inmersive| General Assembly | November 2019
 
-Business Associates (DTA)| Edmonds Community College| July 2017
+**User Experience Design Inmersive Bootcamp| General Assembly | September 2019 - November 2019**
 
-Bachelor in Architecture (BA) | San Andres University| 2006
+Business Associates (DTA)| Edmonds Community College| 2015-2017
+
+Bachelor in Architecture (BA) | San Andres University| 2000-2006
 
 # SKILLS & SOFTWARE
 * UX design, UX research, interaction design, usability testing, stakeholder interview, problem-solving, visual design, prototyping, wireframing, sketching,
