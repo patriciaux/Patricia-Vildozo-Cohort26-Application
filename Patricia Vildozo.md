@@ -14,7 +14,7 @@ Passionate UX designer applying my skills to create simple, creative and structu
 * Collaborated with technical and process teams to define opportunities and outcomes.
 * Analyzed customer behavior across customer segments and personas, and define the paths they take to achieve a specific objective.
 * Conducted interviews with client’s subject matter experts in English and in Spanish, and performed market research.
-### Transparent Path | ProofScore Website Design | UX Designer|2019
+### Transparent Path| ProofScore Website Design (Capstone Project) | UX Designer |2019
 * Collaborated with team members, senior designers and stakeholders to define product’s strategy and implementation of the project.
 * Dealt with ambiguity and defined the path for the design based on researcher findings.
 * Created and iterated multiple design solutions (sketching, wireframing, low-fidelity prototyping, high-fidelity prototyping) to discover what works best for the users and to satisfy the business needs of the client. The company is currently working on launching this website based on my teams’ findings and design.
@@ -22,7 +22,7 @@ Passionate UX designer applying my skills to create simple, creative and structu
 * Prepared preliminary design documents and contract documents.
 * Utilized computer-assisted design and software.
 * Prepared information regarding design, specifications, materials, and equipment.
-# RELEVANT PROJECTS
+# RELEVANT STUDENT PROJECTS
 ### Carmeets App Redesign (Social Network) | PM and IA|2019
 * Collaborated with a researcher and a designer to identify customer perceptions about Carmeets. Defined, documented, and implement end-to-end processes that helped the design team plan, manage, and deliver the project in two weeks.
 * Created and utilized tools like card sorting and competitive analysis to understand mental models and define the structure of the application.
@@ -38,7 +38,7 @@ Bachelor in Architecture (BA) | San Andres University| 2006
 
 # SKILLS & SOFTWARE
 * UX design, UX research, interaction design, usability testing, stakeholder interview, problem-solving, visual design, prototyping, wireframing, sketching,
-* Sketch, Invision, Photoshop, Figma, Ilustrator, Lucidchart, bilingual in Spanish.
+* **Sketch, XD, Invision, Figma, Ilustrator, Lucidchart, bilingual in Spanish.
 
 
 
