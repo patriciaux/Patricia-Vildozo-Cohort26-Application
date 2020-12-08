@@ -34,7 +34,7 @@ User Experience Design Inmersive| General Assembly | November 2019
 
 Business Associates (DTA)| Edmonds Community College| July 2017
 
-Bachelor in Architecture (BA) | San Andres University 
+Bachelor in Architecture (BA) | San Andres University|2006
 
 # SKILLS & SOFTWARE
 * UX design, UX research, interaction design, usability testing, stakeholder interview, problem-solving, visual design, prototyping, wireframing, sketching,
