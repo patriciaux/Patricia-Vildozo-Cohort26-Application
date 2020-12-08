@@ -1,5 +1,8 @@
 # Patricia Vildozo
 # UX Designer
+
+email: patriciavildozo1@gmail.com 
+452-269-2252
 [Patricia Vildozo](http://patriciaux.com)
 
 Passionate UX designer applying my skills to create simple, creative and structured user experiences. As a former Architect, I have been trained to shape the world around us and to understand how people interact with their environment while addressing their particular design needs. Now, as a User Experience Designer, I work with the environments created through software, and I’m excited to shape our world through a different medium. I bring value to my team by being positive and open-minded, while constantly looking for opportunities to grow and learn. My goal is to create creative projects that engage and benefit the end-user while moving the business forward.
