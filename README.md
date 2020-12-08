@@ -26,3 +26,12 @@ Passionate UX designer applying my skills to create simple, creative and structu
 ### Piroshky Piroshky Website Redesign (E-Commerce) | UX Designer
 * Used various research tools like interviews, mental models and user observation to gain knowledge and empathize with the user. Based on the insights,
 * I created a scenario, persona, and user flow. Sketched, created wireframes, prototypes, and iterated based on user testing.
+# SKILLS & SOFTWARE
+UX design, UX research, interaction design, usability testing, stakeholder interview, problem-solving, visual design, prototyping, wireframing, sketching, Sketch, Invision, Photoshop, Above XD, Figma, Lucidchart, bilingual in Spanish.
+# EDUCATION
+User Experience Design Inmersive| General Assembly | November 2019
+Real Estate| Bellevue College| December 2017
+Business Associates (DTA)| Edmonds Community College| July 2017
+Bachelor in Architecture (BA) | San Andres University 
+
+
