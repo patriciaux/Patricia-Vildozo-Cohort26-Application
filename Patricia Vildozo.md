@@ -38,7 +38,7 @@ Bachelor in Architecture (BA) | San Andres University| 2006
 
 # SKILLS & SOFTWARE
 * UX design, UX research, interaction design, usability testing, stakeholder interview, problem-solving, visual design, prototyping, wireframing, sketching,
-* **Sketch, XD, Invision, Figma, Ilustrator, Lucidchart, bilingual in Spanish.
+* **Sketch, XD, Invision, Figma, Ilustrator, Lucidchart, bilingual in Spanish.**
 
 
 
