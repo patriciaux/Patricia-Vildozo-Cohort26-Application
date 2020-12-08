@@ -37,7 +37,8 @@ Business Associates (DTA)| Edmonds Community College| July 2017
 Bachelor in Architecture (BA) | San Andres University 
 
 # SKILLS & SOFTWARE
-UX design, UX research, interaction design, usability testing, stakeholder interview, problem-solving, visual design, prototyping, wireframing, sketching, Sketch, Invision, Photoshop, Above XD, Figma, Ilustrator, Lucidchart, bilingual in Spanish.
+* UX design, UX research, interaction design, usability testing, stakeholder interview, problem-solving, visual design, prototyping, wireframing, sketching,
+* Sketch, Invision, Photoshop, Figma, Ilustrator, Lucidchart, bilingual in Spanish.
 
 
 
